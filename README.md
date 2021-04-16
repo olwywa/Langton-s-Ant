@@ -19,4 +19,4 @@ Ant has to follow such rules as:
 ### Application status
 App is still in progress. TODO: 
 - correctly display the ant's icon,
-- rotate the ant's icon while it's moving.
+- add stop, resume and restart buttons.
